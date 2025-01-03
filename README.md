@@ -37,7 +37,7 @@ Dự án này được xây dựng nhằm mục đích học tập và thực h�
 | ![Hình 3](https://i.imgur.com/xD1Kacw.png)         | ![Hình 4](https://i.imgur.com/3Ed9kZH.png)       |
 
 - Tài liệu chi tiết (file Word):(https://docs.google.com/document/d/1d7KsMxcZQxocQZpu4L-xuLO3q5m6LGbMA7KSjLRW0K8/edit?usp=sharing)
-- Video hướng dẫn và kiểm thử chương trình: [YouTube Link](#)
+- Video hướng dẫn và kiểm thử chương trình: [YouTube Link]https://youtu.be/wFSsDh5HmHw(#)
 
 ---
 
