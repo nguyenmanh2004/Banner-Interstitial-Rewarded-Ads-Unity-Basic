@@ -62,7 +62,7 @@ Dự án này được xây dựng nhằm mục đích học tập và thực h�
 ---
 
 ## Góp ý và liên hệ
-Nếu có bất kỳ câu hỏi hay ý kiến đóng góp, vui lòng mở issue trên repository này hoặc liên hệ qua email: [your-email@example.com](mailto:nguyenmanh2004devgame@gmail.com).
+Nếu có bất kỳ câu hỏi hay ý kiến đóng góp, vui lòng mở issue trên repository này hoặc liên hệ qua email: [nguyenmanh2004devgame@gmail.com](mailto:nguyenmanh2004devgame@gmail.com).
 
 ---
 
