@@ -27,7 +27,16 @@ Dự án này được xây dựng nhằm mục đích học tập và thực h�
 ---
 
 ## Tài liệu đi kèm
-- Tài liệu chi tiết (file Word):[ [Link tải về](#)](https://docs.google.com/document/d/1d7KsMxcZQxocQZpu4L-xuLO3q5m6LGbMA7KSjLRW0K8/edit?usp=sharing)
+### Hình ảnh minh họa
+| **Hình 1**: Quảng cáo banner cơ bản  | **Hình 2**: Cài đặt Adaptive Banner |
+|:--------------------------------------------------:|:-----------------------------------:|
+| ![Hình 1](https://i.imgur.com/ZAv15SU.png)         | ![Hình 2](https://i.imgur.com/H3rwEAI.png)       |
+
+| **Hình 3**: Quảng cáo Interstitial trong ứng dụng  | **Hình 4**: Tích hợp Collapsible Banner trong Unity |
+|:--------------------------------------------------:|:-----------------------------------:|
+| ![Hình 3](https://i.imgur.com/xD1Kacw.png)         | ![Hình 4](https://i.imgur.com/3Ed9kZH.png)       |
+
+- Tài liệu chi tiết (file Word):(https://docs.google.com/document/d/1d7KsMxcZQxocQZpu4L-xuLO3q5m6LGbMA7KSjLRW0K8/edit?usp=sharing)
 - Video hướng dẫn và kiểm thử chương trình: [YouTube Link](#)
 
 ---
